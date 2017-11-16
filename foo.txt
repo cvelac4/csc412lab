@@ -1,0 +1,4 @@
+"Initial Foo Commit"w
+^G
+^X:w
+
